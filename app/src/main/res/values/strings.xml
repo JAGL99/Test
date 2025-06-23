@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PickleApp</string>
+    <string name="first_seen_in">First seen in:</string>
+    <string name="last_known_location">Last know location:</string>
+    <string name="episodes">Episodes (%1$s):</string>
+    <string name="episode">Episode %1$s</string>
+    <string name="email">Email</string>
+    <string name="restart_password">Restart Password</string>
+    <string name="go_to_login">Go to Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_user">Register user</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signup">Signup</string>
+    <string name="google_sign_in_failed">Google sign in failed</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="login_with_google">Login with Google</string>
+</resources>
