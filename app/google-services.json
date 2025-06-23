@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938534185326",
+    "project_id": "pickleapp-470ea",
+    "storage_bucket": "pickleapp-470ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938534185326:android:7c8986aa2bb8f7009b797f",
+        "android_client_info": {
+          "package_name": "com.jagl.pickleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938534185326-ekro1j6mtctmp1ucts7mgaa298ljpeiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jagl.pickleapp",
+            "certificate_hash": "e8f1a3d2c3034d26d173ce58e1f52c845637f3ec"
+          }
+        },
+        {
+          "client_id": "938534185326-9imuqr9jm4spnap96o1uuqtnrgmnht9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmfJKKjvgsZrhXsMtFzoW6mnx5A5KqYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938534185326-9imuqr9jm4spnap96o1uuqtnrgmnht9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
